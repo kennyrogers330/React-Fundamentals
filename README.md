@@ -1,6 +1,8 @@
 #This is the first comment DONE
 # Getting Started with Create React App
 
+#Some new Changes
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
